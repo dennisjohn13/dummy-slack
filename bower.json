@@ -1,0 +1,17 @@
+{
+  "name": "dummy-slack",
+  "description": "Dummy slack application to study react",
+  "main": "index.js",
+  "authors": [
+    "dennisjohn13"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dennisjohn13/dummy-slack",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
