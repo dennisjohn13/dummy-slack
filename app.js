@@ -63,7 +63,8 @@ class ChannelSelection extends React.Component {
 			channels: [
 			{ name: 'Test Support' },
    		    { name: 'Hardware Support' },
-            { name: 'Software Support' }
+            { name: 'Software Support' },
+            { name: 'Table Support'}
 			]
 		};
 	}
