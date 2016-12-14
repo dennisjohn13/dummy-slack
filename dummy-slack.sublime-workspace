@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"con",
+				"constructor"
+			],
+			[
+				"Ch",
+				"channelName"
+			],
+			[
+				"Channe",
+				"ChannelSelection"
+			],
+			[
+				"Chan",
+				"ChannelForm"
+			],
+			[
+				"Cha",
+				"ChannelList"
+			],
+			[
+				"ren",
+				"ren\tReact: render: fn() { return ... }"
+			],
+			[
 				"name",
 				"namePassed"
 			],
@@ -16,19 +40,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 482,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "app.js",
 			"settings":
 			{
-				"buffer_size": 616,
+				"buffer_size": 1710,
 				"line_ending": "Unix"
 			}
 		}
@@ -49,7 +64,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 467.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -77,7 +92,14 @@
 	],
 	"file_history":
 	[
+		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/bower.json",
 		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/app.js",
+		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/index.html",
+		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/test/bind.js",
+		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/bower_components/babel/browser-polyfill.min.js",
+		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/bower_components/bootstrap/less/modals.less",
+		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/test/test/hola.js",
+		"/Users/DennisJohn/Library/Application Support/Sublime Text 3/Packages/FuzzyFilePath/FuzzyFilePath.sublime-settings",
 		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/dummy-slack.sublime-project",
 		"/Users/DennisJohn/Desktop/Projects/dummySlack/dummy-slack/.gitignore",
 		"/Users/DennisJohn/Desktop/technical/JavaScriptStudy/JavaScriptOne.html",
@@ -101,6 +123,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
 			"app",
 			"5",
 			"html"
@@ -126,59 +149,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 482,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								482,
-								482
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 616,
+						"buffer_size": 1710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								155,
-								157
+								1421,
+								1421
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 605.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -190,7 +184,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -232,6 +226,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"app.js"
+			]
 		],
 		"width": 0.0
 	},
